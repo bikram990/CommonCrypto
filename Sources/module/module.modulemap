@@ -15,6 +15,6 @@
 //
 
 module CommonCrypto [system] {
-    header "shim.h"
+    header "../CommonCryptoShim.h"
     export *
 }
